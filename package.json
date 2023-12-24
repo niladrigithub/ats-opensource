@@ -1,0 +1,36 @@
+{
+   "name": "ATS-OpenSource",
+   "version": "1.0.0",
+   "description": "An Applicant Tracking System (ATS) with an open-source approach.",
+   "main": "index.js",
+   "scripts": {
+      "start": "node index.js",
+      "test": "echo \"Error: no test specified\" && exit 1"
+   },
+   "keywords": [
+      "ATS",
+      "Applicant Tracking System",
+      "Recruitment",
+      "Job Management",
+      "Candidate Management",
+      "Open Source",
+      "HR Software",
+      "Job Application",
+      "Recruitment Process",
+      "Hiring",
+      "Talent Acquisition",
+      "Human Resources",
+      "Staffing",
+      "Job Listings",
+      "Interview Management"
+   ],
+   "author": "Niladri Das",
+   "license": "MIT",
+   "dependencies": {
+      "express": "^4.17.1",
+      "mongoose": "^6.0.0",
+      "body-parser": "^1.19.0",
+      "cors": "^2.8.5"
+      // Add other dependencies as needed
+   }
+}
