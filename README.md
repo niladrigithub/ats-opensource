@@ -20,7 +20,41 @@ Welcome to ATS-OpenSource! This project aims to provide a flexible and customiza
 - User authentication with different roles (admin, recruiter).
 - Create, update, and delete job postings.
 - Track candidate applications and their status.
-- [Add more features based on your project]
+
+## Additional Features
+
+1. **User Authentication:**
+   - Implement secure user authentication with roles for administrators, recruiters, and candidates.
+
+2. **Resume Parsing:**
+   - Integrate resume parsing to automatically extract relevant information from candidate resumes.
+
+3. **Advanced Search and Filtering:**
+   - Enhance search functionality for recruiters to find and filter candidates based on skills, experience, and location.
+
+4. **Communication Tools:**
+   - Include email templates, messaging, and notifications to streamline communication between recruiters and candidates.
+
+5. **Interview Scheduling:**
+   - Integrate a scheduling system to facilitate coordination of interviews within the ATS.
+
+6. **Analytics and Reporting:**
+   - Provide analytics and reporting features to track key metrics like time-to-hire, candidate source, and recruitment strategy effectiveness.
+
+7. **Mobile Responsiveness:**
+   - Ensure the application is mobile-friendly, allowing users to access and manage candidate information on the go.
+
+8. **Integration with Job Boards:**
+   - Enable integration with popular job boards for posting listings and importing applications into the ATS.
+
+9. **Collaboration Tools:**
+   - Implement features for team collaboration, including shared notes, feedback, and candidate evaluations.
+
+10. **Onboarding Workflow:**
+    - Extend the system to include onboarding workflows for a smooth transition from candidate to employee.
+
+11. **Customizable Dashboard:**
+    - Provide users with a customizable dashboard where they can configure widgets and views based on preferences.
 
 ## Tech Stack
 
