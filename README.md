@@ -125,7 +125,7 @@ Welcome to ATS-OpenSource! This project aims to provide a flexible and customiza
 
 To get started with the ATS, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/ATS-OpenSource.git`
+1. Clone the repository: `git clone https://github.com/niladrigithub/ATS-OpenSource.git`
 2. Navigate to the backend folder: `cd ATS-OpenSource/backend`
 3. Install backend dependencies: `npm install`
 4. Set up the database (MongoDB).
